@@ -22,8 +22,8 @@ The primary objective of this project is to clean and merge the datasets to crea
 
 ### We used the following libraries:
 
-pandas
-numpy
+- pandas
+- numpy
 
 ## Files
 
