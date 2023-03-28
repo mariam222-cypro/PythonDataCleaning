@@ -1,14 +1,14 @@
-#Project: Data Analysis on Energy and GDP
+# Project: Data Analysis on Energy and GDP
 
-#Overview
+## Overview
 
 In this project, we analyze data related to energy supply, renewable energy production, and GDP of different countries to gain insights into the world's energy landscape. The dataset is collected from different sources, including the United Nations and the World Bank.
 
 The primary objective of this project is to clean and merge the datasets to create a new dataset that contains the most relevant information required for analysis. We use pandas library to perform data cleaning, merging, and analysis.
 
-#Project Steps
+## Project Steps
 
-The project consists of the following main steps:
+### The project consists of the following main steps:
 
 Load the energy data from the file Energy Indicators.xls
 Load the GDP data from the file world_bank.csv
@@ -19,14 +19,15 @@ The index of the resulting DataFrame should be the name of the country, and the 
 Analyze the data to answer some questions.
 Libraries Used
 
-#We used the following libraries:
+### We used the following libraries:
 
 pandas
 numpy
 
-#Files
+### Files
 
 Energy Indicators.xls
 world_bank.csv
 scimagojr-3.xlsx
 DataAnalysis.ipynb
+
