@@ -28,6 +28,6 @@ The primary objective of this project is to clean and merge the datasets to crea
 ## Files
 
 - Energy Indicators.xls
-- world_bank.csv
-- scimagojr-3.xlsx
+- world_bank.csv 
+- scimagojr country rank 1996-2021.xlsx
 
